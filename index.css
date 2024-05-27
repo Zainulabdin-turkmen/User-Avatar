@@ -3,10 +3,14 @@ body {
     font-family: sans-serif;
 }
 
-section {
+/* section {
 
-}
+} */
 
 .container {
     width: 350px;
+}
+
+img {
+    width: 52px;
 }
